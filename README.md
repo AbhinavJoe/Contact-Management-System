@@ -55,15 +55,15 @@ Follow these steps to set up the project locally:
 
 To start the development server, run:
 
-    ```bash
-    npm run dev
-    ```
+```bash
+npm run dev
+```
 
 or if you're using Yarn:
 
-    ```bash
-    yarn dev
-    ```
+```bash
+yarn dev
+```
 
 Open http://localhost:3000 in your browser to view the application.
 
