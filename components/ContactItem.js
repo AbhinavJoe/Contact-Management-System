@@ -4,9 +4,8 @@ export default function ContactItem({ contact, onDeleteContact, onUpdateContact 
     };
 
     // This is a placeholder for an update functionality
-    // In a real app, you would provide a form to edit the contact details
     const handleEdit = () => {
-        // Implement the update logic here, possibly opening a modal or an inline form
+        // Incomplete. Have to implement the update logic here.
     };
 
     return (
