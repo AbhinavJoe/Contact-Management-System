@@ -9,7 +9,7 @@ export default function ContactItem({ contact, onDeleteContact, onUpdateContact 
     };
 
     return (
-        <div className="flex items-center justify-between p-4 mb-4 bg-white shadow rounded-lg">
+        <div className="flex items-center justify-between p-4 mb-4 bg-white shadow-xl rounded-lg">
             <div>
                 <p className="text-lg font-semibold">{contact.name}</p>
                 <p>{contact.phone}</p>
